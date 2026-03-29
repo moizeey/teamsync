@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const api = axios.create({
     // baseURL: 'http://localhost:5000/api',
-    baseURL: 'https://teamsync-backend-five.vercel.app/api'
+    baseURL: 'https://teamsync-server-xi.vercel.app/api'
 });
 
 // Add a request interceptor
