@@ -3,7 +3,7 @@
 TeamSync is a full-stack project management workspace designed to streamline task tracking. Built with a focus on seamless user experience, it features a drag-and-drop Kanban board, real-time data visualization, and a fully responsive, mobile-first design. 
 <img width="1366" height="638" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/d3e11c8d-52c9-478d-8e56-a6012db9691a" />
 
-**[Live Demo](Insert Your Vercel Frontend Link Here)**
+**[Live Demo](https://teamsync-client.vercel.app/)**
 
 ## ✨ Key Features & Architecture
 * **Monorepo Structure:** Cleanly separated `client` and `server` environments within a unified codebase.
@@ -22,5 +22,5 @@ TeamSync is a full-stack project management workspace designed to streamline tas
 
 To run this project locally, clone the repository and set up both environments:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/teamsync.git](https://github.com/YOUR_USERNAME/teamsync.git)
+git clone [https://github.com/moizeey/teamsync.git](https://github.com/moizeey/teamsync.git)
 cd teamsync
